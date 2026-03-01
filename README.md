@@ -30,14 +30,6 @@ This project implements a complete machine learning pipeline for breast cancer c
 4. **Web Application**: Streamlit-based interactive web interface
 5. **Deployment**: Production-ready deployment on Streamlit Cloud
 
-**Live Demo**: [Insert your Streamlit link]
-
-### Student Information
-- **Name**: Jimoh-Alabi Islamiat Modupe
-- **Matric Number**: 250000033
-- **Algorithm**: Logistic Regression
-- **Persistence Method**: Pickle
-
 ### Key Achievements
 - ✅ **High Accuracy**: 95%+ classification accuracy
 - ✅ **5-Feature Model**: Optimized feature selection
@@ -81,7 +73,7 @@ This project implements a complete machine learning pipeline for breast cancer c
 ## 📁 Project Structure
 
 ```
-BreastCancer_Project_jimoh-Alabi_islamiat_modupe_250000033/
+Breast-Cancer-Project/
 │
 ├── app.py                              # Main Streamlit application
 ├── requirements.txt                    # Python dependencies
@@ -107,8 +99,8 @@ BreastCancer_Project_jimoh-Alabi_islamiat_modupe_250000033/
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/BreastCancer_Project_jimoh-Alabi_islamiat_modupe_250000033.git
-cd BreastCancer_Project_jimoh-Alabi_islamiat_modupe_250000033
+git clone https://github.com/yourusername/Breast-Cancer-Project.git
+cd Breast-Cancer-Project
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -158,7 +150,7 @@ http://localhost:8501
 ### Testing the Application
 
 1. Enter tumor feature values in the input fields
-2. Click **"🔬 Predict"**
+2. Click **" Predict"**
 3. View the prediction results with:
    - Classification (Benign/Malignant)
    - Confidence score
@@ -397,38 +389,9 @@ This project demonstrates proficiency in:
 
 ---
 
-## 🤝 Contributing
-
-This is an educational project. For learning purposes:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Make your changes
-4. Test thoroughly
-5. Commit (`git commit -m 'Add improvement'`)
-6. Push (`git push origin feature/improvement`)
-7. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is created for educational purposes as part of academic coursework.  
 All code is available for educational use and learning.
-
----
-
-## 🙏 Acknowledgments
-
-- **Dataset**: UCI Machine Learning Repository
-- **Framework**: Streamlit for the amazing web framework
-- **Libraries**: scikit-learn, NumPy, Pandas
-- **Deployment**: Streamlit Cloud for free hosting
-
----
----
-
-**Status**: ✅ Deployed and Functional  
-**Live URL**: https://breastcancerprojectjimoh-alabiislamiatmodupe250000033-rscb8pl8.streamlit.app/
 
 ---
