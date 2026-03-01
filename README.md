@@ -363,9 +363,7 @@ rm -rf ~/.streamlit
 
 ## 🎓 Academic Information
 
-**Course Project**: Machine Learning / Data Science  
-**Student**: Jimoh-Alabi Islamiat Modupe  
-**Matric Number**: 250000033  
+**Course Project**: Artificial Intelligence
 **Algorithm**: Logistic Regression  
 **Persistence**: Pickle  
 **Framework**: Streamlit  
